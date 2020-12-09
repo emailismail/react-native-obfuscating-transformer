@@ -1,7 +1,7 @@
 {
-  "name": "react-native-obfuscating-transformer",
+  "name": "@ktree/react-native-obfuscating-transformer",
   "version": "1.0.0",
-  "description": "Obfuscating transformer for react-native",
+  "description": "Obfuscating transformer for react-native With JS obfuscator 2.6.0 ",
   "main": "dist/index.js",
   "repository": "https://github.com/ds300/react-native-obfuscating-transformer",
   "author": "David Sheldrick",
